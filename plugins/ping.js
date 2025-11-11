@@ -18,7 +18,7 @@ module.exports = {
 
     
     const responses = [
-      "🏓 Pong! I'm alive ⚡",
+      "🏓 Pong! I'm rifat ⚡",
       "⚡ Bot online & responsive!",
       "🚀 Speed check: OK!",
       "✅ System running smoothly!"
